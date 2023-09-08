@@ -1,1 +1,1 @@
-/home/crypton/android/lineage/kernel/realme/sm6225/drivers/base/regmap/internal.h
+../../../../drivers/base/regmap/internal.h
